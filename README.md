@@ -9,7 +9,7 @@
 1. **Clone the repository:**
    - Open your terminal and run:
      ```bash
-     git clone <repository-url>
+     git clone https://github.com/bitcham/FullStack-School-Assignment.git
      cd fullstack_project
      ```
 
